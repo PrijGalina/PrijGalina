@@ -17,7 +17,7 @@
 ---
 ### Languages and tools
 <div>
-    <a title="React" style="margin-right: 10px">
+    <a title="React">
         <img  height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
     </a>
     <a title="Redux">
