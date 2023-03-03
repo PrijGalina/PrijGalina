@@ -103,6 +103,12 @@
 <details open>
     <summary style="margin-bottom:15px"><h3 style="display:inline;">My Projects:</h3></summary>
     <div>
+    <a href="https://github.com/PrijGalina/six-cities">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PrijGalina&repo=six-cities&theme=transparent" />
+    </a>&#8287;&#8287;
+    <a href="https://github.com/PrijGalina/pognali">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PrijGalina&repo=pognali&theme=transparent" />
+    </a>
     </div>
 </details>
 
