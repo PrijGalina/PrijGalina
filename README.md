@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-306177?style=flat-square&logo=gmail&logoColor=white)](mailto:galiaprijimova@gmail.com)&#8287;
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-306177?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/galina-kotsar-6b1a24234/)
 
-<img align='right' src="https://media.giphy.com/media/YPQ62IX4xd60xJDaBu/giphy.gif" width="180">
+<!--<img align='right' src="https://media.giphy.com/media/YPQ62IX4xd60xJDaBu/giphy.gif" width="180">-->
 
 ### About me
 - 🌱 I’m React Frontend Developer
