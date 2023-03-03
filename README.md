@@ -16,125 +16,72 @@
 
 ---
 ### Languages and tools
-<ul style="list-style: none; display: flex; align-items: center; width: 100%; justify-content: space-between; margin: 0; padding: 0;">
-    <li>
-        <a title="React">
-            <img  height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-        </a>
-    </li>
-    <li>
-        <a title="Redux">
-            <img  height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-        </a>
-    </li>
-    <li>
-        <a title="Ant design">
-            <img src="https://avatars1.githubusercontent.com/u/12101536?s=200&v=4" width="35" />
-        </a>
-    </li>
-    <li>
-        <a title="Ant Design Charts">
-            <img height="35" width="35" src ="https://avatars.githubusercontent.com/u/19199542?s=200&v=4">
-        </a>
-    </li>
-    <li>
-        <a title="TypeScript">
-            <img  height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-        </a>
-    </li>
-    <li>
-        <a title="JavaScript">
-            <img  height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-        </a>
-    </li>
-    <li>
-        <a title="HTML 5">
-            <img  height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-        </a>
-    </li>
-    <li>
-        <a title="CSS 3">
-            <img  height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-        </a>
-    </li>
-    <li>
-        <a title="Git">
-            <img  height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-        </a>
-    </li>           
-    <li>
-        <a title="Webpack"><img width="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-plain.svg" /></a>
-    </li>
-    <li>
-        <a title="Sass">
-            <img  height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-        </a>
-    </li>
-    <li>
-        <a title="Figma">
-            <img  height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-        </a>
-    </li>
-</ul>
+
+<a title="React">
+    <img  height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+</a>
+<a title="Redux">
+    <img  height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+</a>
+<a title="Ant design">
+    <img src="https://avatars1.githubusercontent.com/u/12101536?s=200&v=4" width="35" />
+</a>
+<a title="Ant Design Charts">
+    <img height="35" width="35" src ="https://avatars.githubusercontent.com/u/19199542?s=200&v=4">
+</a>
+<a title="TypeScript">
+    <img  height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+</a>
+<a title="JavaScript">
+    <img  height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+</a>
+<a title="HTML 5">
+    <img  height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+</a>
+<a title="CSS 3">
+    <img  height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+</a>
+<a title="Git">
+    <img  height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
+</a>
+<a title="Webpack"><img width="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-plain.svg" /></a>
+<a title="Sass">
+    <img  height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+</a>
+<a title="Figma">
+    <img  height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+</a>
 
 ---
 
 <details open>
     <summary style="margin-bottom:10px"><h3 style="display:inline;">I have some experience with:</h3></summary>
     <div>
-        <ul style="list-style: none; display: flex; align-items: center; width: 100%; justify-content: space-between; margin: 0; padding: 0;">
-            <li>
-                <a title="Pyhton"><img width="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/></a>
-            </li>
-            <li>
-                <a title="Php"><img width="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/></a>
-            </li>
-            <li>
-                <a title="Bootstrap">
-                    <img width="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
-                </a>
-            </li>
-            <li>
-                <a title="Gulp">
-                    <img  height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" />
-                </a>
-            </li>
-            <li>
-                <a title="Grunt">
-                    <img  width="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grunt/grunt-original.svg" />
-                </a>
-            </li>
-            <li>
-                <a title="Less">
-                    <img  height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" />
-                </a>
-            </li>
-            <li>
-                <a title="Photoshop">
-                    <img  height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
-                </a>
-            </li>
-            <li>
-                <a title="Illustrator">
-                    <img  height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" />
-                </a>
-            </li>
-            <li>
-                <a title="Drupal"><img width="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original.svg"/></a>
-            </li>
-            <li>
-                <a title="Wordpress"><img width="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg"/></a>
-            </li>
-            <!--<li>
-                <a title="d3.js"><img width="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg"/></a>
-            </li>
-            <li>
-                <a title=""><img width="35" height="35" src=""/></a>
-            </li>
-            <li>
-                <a title=""><img width="35" height="35" src=""/></a>
-            </li> -->
-        </ul>
+        <a title="Pyhton"><img width="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/></a>
+        <a title="Php"><img width="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/></a>
+        <a title="Bootstrap">
+            <img width="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
+        </a>
+        <a title="Gulp">
+            <img  height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" />
+        </a>
+        <a title="Grunt">
+            <img  width="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grunt/grunt-original.svg" />
+        </a>
+        <a title="Less">
+            <img  height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" />
+        </a>
+        <a title="Photoshop">
+            <img  height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
+        </a>
+        <a title="Illustrator">
+            <img  height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" />
+        </a>
+        <a title="Drupal"><img width="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original.svg"/></a>
+        <a title="Wordpress"><img width="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg"/></a>
+        <a title="d3.js"><img width="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg"/></a>
+        <!--<a title=""><img width="35" height="35" src=""/></a>
+        <a title=""><img width="35" height="35" src=""/></a> -->
     </div>
 </details>
 
