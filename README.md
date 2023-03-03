@@ -16,41 +16,42 @@
 
 ---
 ### Languages and tools
-
-<a title="React">
-    <img  height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-</a>
-<a title="Redux">
-    <img  height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-</a>
-<a title="Ant design">
-    <img src="https://avatars1.githubusercontent.com/u/12101536?s=200&v=4" width="35" />
-</a>
-<a title="Ant Design Charts">
-    <img height="35" width="35" src ="https://avatars.githubusercontent.com/u/19199542?s=200&v=4">
-</a>
-<a title="TypeScript">
-    <img  height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-</a>
-<a title="JavaScript">
-    <img  height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-</a>
-<a title="HTML 5">
-    <img  height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-</a>
-<a title="CSS 3">
-    <img  height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-</a>
-<a title="Git">
-    <img  height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-</a>
-<a title="Webpack"><img width="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-plain.svg" /></a>
-<a title="Sass">
-    <img  height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-</a>
-<a title="Figma">
-    <img  height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-</a>
+<div>
+    <a title="React">
+        <img  height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+    </a>
+    <a title="Redux">
+        <img  height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+    </a>
+    <a title="Ant design">
+        <img src="https://avatars1.githubusercontent.com/u/12101536?s=200&v=4" width="35" />
+    </a>
+    <a title="Ant Design Charts">
+        <img height="35" width="35" src ="https://avatars.githubusercontent.com/u/19199542?s=200&v=4">
+    </a>
+    <a title="TypeScript">
+        <img  height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+    </a>
+    <a title="JavaScript">
+        <img  height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+    </a>
+    <a title="HTML 5">
+        <img  height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+    </a>
+    <a title="CSS 3">
+        <img  height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+    </a>
+    <a title="Git">
+        <img  height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
+    </a>
+    <a title="Webpack"><img width="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-plain.svg" /></a>
+    <a title="Sass">
+        <img  height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+    </a>
+    <a title="Figma">
+        <img  height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+    </a>
+</div>
 
 ---
 
