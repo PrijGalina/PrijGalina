@@ -51,6 +51,12 @@
     <a title="Figma">
         <img  height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
     </a>&#8287;
+    <a title="Photoshop">
+        <img  height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
+    </a>&#8287;
+    <a title="Illustrator">
+        <img  height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" />
+    </a>&#8287;
 </div>
 
 ---
@@ -71,12 +77,6 @@
         </a>&#8287;
         <a title="Less">
             <img  height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" />
-        </a>&#8287;
-        <a title="Photoshop">
-            <img  height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
-        </a>&#8287;
-        <a title="Illustrator">
-            <img  height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" />
         </a>&#8287;
         <a title="Drupal"><img width="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-original.svg"/></a>&#8287;
         <a title="Wordpress"><img width="35" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg"/></a>&#8287;
