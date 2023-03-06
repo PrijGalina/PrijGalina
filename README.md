@@ -12,7 +12,7 @@
  - 📚 Interested in learning Vue or Angular
  - ❤️ Really love to layout websites 
  - 📄 Learn more about me in my CV
- - 🌍 My native language is Russian, I know English (A2-B1) enough to read technical documentation. Now I'm trying to level up it.
+ - 🌍 My native language is Russian, I know English (A2) enough to read technical documentation. Now I'm trying to level up it.
 
 ---
 ### Languages and tools
