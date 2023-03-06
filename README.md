@@ -106,6 +106,9 @@
     <a href="https://github.com/PrijGalina/six-cities">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PrijGalina&repo=six-cities&theme=transparent" />
     </a>&#8287;&#8287;
+    <a href="https://github.com/PrijGalina/cinemaddict">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PrijGalina&repo=cinemaddict&theme=transparent" />
+    </a>&#8287;&#8287;
     <a href="https://github.com/PrijGalina/pognali">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PrijGalina&repo=pognali&theme=transparent" />
     </a>
