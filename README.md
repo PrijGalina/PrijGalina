@@ -7,12 +7,12 @@
 <!--<img align='right' src="https://media.giphy.com/media/YPQ62IX4xd60xJDaBu/giphy.gif" width="180">-->
 
 ### About me
-- 🌱 I’m React Frontend Developer
-- 🎓 I am a graduate of the Faculty of Computer Technology at ITMO University
-- 📚 In the future I would like to study Vue or Angular
-- ❤️ I get special pleasure from website layout
-- 📄 Know about my experiences [CV](cv-link)
-- 🌍 My native language is Russian, I know English (A2-B1) at the level of reading technical documentation (poor conversational). Now I'm trying to level up it.
+ - 🌱 I’m React Frontend Developer
+ - 🎓 Graduated Faculty of Computer Technology at ITMO University (masters degree)
+ - 📚 Interested in learning Vue or Angular
+ - ❤️ Really love to layout websites 
+ - 📄 Learn more about me in my CV
+ - 🌍 My native language is Russian, I know English (A2-B1) enough to read technical documentation. Now I'm trying to level up it.
 
 ---
 ### Languages and tools
