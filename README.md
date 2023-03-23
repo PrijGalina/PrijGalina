@@ -11,7 +11,7 @@
  - 🎓 Graduated Faculty of Computer Technology at ITMO University (masters degree)
  - 📚 Interested in learning Vue or Angular
  - ❤️ Really love to layout websites 
- - 📄 Learn more about me in my CV
+ - 📄 Learn more about me in my CV: [ENG](https://drive.google.com/file/d/1xjMvCnNmGc-_kV_BTXIxpTyzGuPvvVRY/view?usp=sharing) / [RU](https://drive.google.com/file/d/1cCyuiKt6nQ46L0CB7Y_lo74iHhRvQLSr/view?usp=sharing)
  - 🌍 My native language is Russian, I know English (A2) enough to read technical documentation. Now I'm trying to level up it.
 
 ---
